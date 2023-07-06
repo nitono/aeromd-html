@@ -54,9 +54,9 @@ const mp = new GenerateHTMLPage('# Hello');
 <h3 id='generateStyles-function'>Generate styles for markdown</h3>
 This function generate a md-theme.css file in you directory which contains my custom styles for parsed markdown
 
-| name of function | return value                             | params    |
-| ---------------- | ---------------------------------------- | --------- |
-| generateStyles   | return CSS styles, create a md-theme.css | no params |
+| name of function | return value          | params    |
+| ---------------- | --------------------- | --------- |
+| generateStyles   | create a md-theme.css | no params |
 
 Examples:
 
