@@ -4,4 +4,4 @@ lib
 
 
 .npmrc
-package-lock.json
+pnpm-lock.yaml
